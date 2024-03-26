@@ -5,7 +5,7 @@
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ca%C3%ADque-miyazaki?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![Caique GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique-Miyazaki&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-miyazaki&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Miyazaki&exclude_repo=github-readme-stats,anuraghazra.github.io)
 ### Tecnologias que utilizo
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
